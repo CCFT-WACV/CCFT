@@ -6,6 +6,7 @@ This repository hosts the code for the work 'Compositional Context Fine-tuning V
   <figcaption><em>Figure 1: The Overall Framework of Compositional Context Fine-Tuning with Layer-Partitioned Alternating Training.</em></figcaption>
 </figure>
 
+
 This project implements fine-tuning of the [Qwen2.5-VL](https://github.com/QwenLM/Qwen-VL) vision-language model using the [LLaMA Factory](https://github.com/hiyouga/LLaMA-Factory) framework. The implementation involves cloning both repositories and applying custom modifications to enable CCFT fine-tuning.
 
 ## Project Structure
